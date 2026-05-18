@@ -2,13 +2,20 @@
   "id": "content-marketing",
   "name": "Content Marketing",
   "tagline": "AI-powered marketing solution",
-  "description": "AI-powered content-marketing application built for Aurora Market. Modern, responsive design with SaaS monetization.",
+  "description": "AI-powered content-marketing application built for Aurora Rayes ecosystem. Modern, responsive design with SaaS monetization.",
   "category": "marketing",
-  "tags": ["ai", "marketing"],
+  "tags": [
+    "ai",
+    "marketing"
+  ],
   "url": "https://auroramarket.org/content-marketing",
   "demo": "https://21leahcimhtiek-oss.github.io/content-marketing",
   "repo": "https://github.com/21leahcimhtiek-oss/content-marketing",
-  "stack": ["HTML", "CSS", "JavaScript"],
+  "stack": [
+    "HTML",
+    "CSS",
+    "JavaScript"
+  ],
   "status": "mvp",
   "version": "1.0.0",
   "author": "Aurora Rayes LLC",
